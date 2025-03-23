@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminSilinmisKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gecmis_Siparis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KarZarar1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kayt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminMusteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriBilgilerim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriGecmisSiparis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriGirisPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriSepet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriYeniSiparis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Personel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="personelBilgilerim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="personeldüzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="personelgiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersonelMusteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Aktif_Siparis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Personel_Gecmis_Siparis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Urun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Yedekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÜrünDüzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÜrünEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

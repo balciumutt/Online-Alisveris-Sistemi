@@ -1,0 +1,422 @@
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Kayıt.resources
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Admin.resources
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.KarZarar.resources
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Musteri.resources
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel.resources
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Siparis.resources
+C:\Users\ENIAC\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Urun.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Admin.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Kayıt.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Siparis.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Urun.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelgiris.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personeldüzenle.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünEkle.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünDüzenle.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGiris.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriBilgilerim.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGecmisSiparis.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriSepet.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriYeniSiparis.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelBilgilerim.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminMusteri.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel_Gecmis_Siparis.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PersonelMusteri.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Admin.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminMusteri.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Admin_Gecmis_Siparis.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Kayıt.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriBilgilerim.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGecmisSiparis.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGiris.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriSepet.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriYeniSiparis.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelBilgilerim.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personeldüzenle.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelgiris.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PersonelMusteri.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PersonelSipariş.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel_Gecmis_Siparis.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Siparis.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Urun.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünDüzenle.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünEkle.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Admin.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminMusteri.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Admin_Gecmis_Siparis.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Kayıt.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriBilgilerim.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGecmisSiparis.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGiris.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriSepet.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriYeniSiparis.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelBilgilerim.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personeldüzenle.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelgiris.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PersonelMusteri.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PersonelSipariş.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel_Gecmis_Siparis.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Siparis.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Urun.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünDüzenle.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünEkle.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.KarZarar1.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.KarZarar1.resources
+C:\Users\umut_\OneDrive\Masaüstü\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Yedekle.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.KarZarar1.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Yedekle.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\tasarım.giris.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Aktif_Siparis.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Gecmis_Siparis.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\tasarım.girisMüsteri.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\tasarım.MusteriGiris.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGiris1.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.giris.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGirisPaneli.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminMusteri.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Aktif_Siparis.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.giris.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Gecmis_Siparis.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.KarZarar1.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Kayıt.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGecmisSiparis.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGirisPaneli.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriSepet.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriYeniSiparis.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelBilgilerim.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personeldüzenle.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelgiris.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PersonelMusteri.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel_Gecmis_Siparis.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Urun.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Yedekle.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünDüzenle.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünEkle.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriBilgilerim.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminSilinmisKayit.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminMusteri.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminSilinmisKayit.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Aktif_Siparis.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.giris.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Gecmis_Siparis.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.KarZarar1.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Kayıt.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriBilgilerim.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGecmisSiparis.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGirisPaneli.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriSepet.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriYeniSiparis.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelBilgilerim.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personeldüzenle.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelgiris.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PersonelMusteri.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel_Gecmis_Siparis.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Urun.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Yedekle.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünDüzenle.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünEkle.resources
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\ENIAC\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminMusteri.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminSilinmisKayit.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Aktif_Siparis.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.giris.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Gecmis_Siparis.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.KarZarar1.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Kayıt.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriBilgilerim.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGecmisSiparis.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGirisPaneli.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriSepet.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriYeniSiparis.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelBilgilerim.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personeldüzenle.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelgiris.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PersonelMusteri.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel_Gecmis_Siparis.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Urun.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Yedekle.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünDüzenle.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünEkle.resources
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\YeniVTYS\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGiris.resources
+C:\Users\EMRE KAAN\Desktop\HomeWork1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGiris.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminMusteri.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AdminSilinmisKayit.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Aktif_Siparis.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.giris.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Gecmis_Siparis.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.KarZarar1.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Kayıt.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriBilgilerim.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGecmisSiparis.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGiris.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriGirisPaneli.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriSepet.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MusteriYeniSiparis.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelBilgilerim.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personeldüzenle.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.personelgiris.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.PersonelMusteri.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Personel_Gecmis_Siparis.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Urun.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Yedekle.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünDüzenle.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ÜrünEkle.resources
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\ENIAC\Desktop\Grup 32 Veritabanı Proje Ödevi\Grup 32 Veritabanı Proje Ödevi\Uygulama\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
